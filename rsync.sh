@@ -1,1 +1,1 @@
-rsync -avz ../cv/cv.pdf .
+rsync -avz ../webpage/public/ .
