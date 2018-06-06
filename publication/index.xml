@@ -11,18 +11,9 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Kendall and Mallows Kernels for Permutations</title>
-      <link>https://YunlongJiao.github.io/publication/jiao2018kendall/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://YunlongJiao.github.io/publication/jiao2018kendall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Weighted Kendall and High-order Kernels for Permutations</title>
       <link>https://YunlongJiao.github.io/publication/jiao2018weighted/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://YunlongJiao.github.io/publication/jiao2018weighted/</guid>
       <description></description>
@@ -43,6 +34,15 @@
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://YunlongJiao.github.io/publication/jiao2017signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kendall and Mallows Kernels for Permutations</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2018kendall/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/publication/jiao2018kendall/</guid>
       <description></description>
     </item>
     
