@@ -8,7 +8,57 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Yunlong Jiao</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://YunlongJiao.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://YunlongJiao.github.io/home/about/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/home/about/</guid>
+      <description>Biography I am a postdoctoral research scientist at the University of Oxford. I am based in the Wellcome Centre for Human Genetics with Mark McCarthy, as well as in the Computational Statistics and Machine Learning group of the Department of Statistics with Chris Holmes. Before Oxford, I received my PhD from MINES ParisTech, Paris, France, under the supervision of Jean-Philippe Vert, and I was a Marie Curie Initial Training Network fellow in Machine Learning for Personalized Medicine.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://YunlongJiao.github.io/home/publications_selected/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://YunlongJiao.github.io/home/publications/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://YunlongJiao.github.io/home/software/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/home/software/</guid>
+      <description>I am (co-)author and maintainer of the following software:
+ kernrank - R package implementing kernel functions and kernel methods for analyzing rank data.
+ kmr - R implementation of a kernel multitask regression algorithm to solve simultaneously several regression problems.
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://YunlongJiao.github.io/home/contact/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

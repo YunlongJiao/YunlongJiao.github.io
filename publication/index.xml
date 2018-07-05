@@ -8,14 +8,25 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Yunlong Jiao</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://YunlongJiao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Weighted Kendall and High-order Kernels for Permutations</title>
       <link>https://YunlongJiao.github.io/publication/jiao2018weighted/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://YunlongJiao.github.io/publication/jiao2018weighted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kendall and Mallows Kernels for Permutations</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2018kendall/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/publication/jiao2018kendall/</guid>
       <description></description>
     </item>
     
@@ -38,22 +49,12 @@
     </item>
     
     <item>
-      <title>The Kendall and Mallows Kernels for Permutations</title>
-      <link>https://YunlongJiao.github.io/publication/jiao2018kendall/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://YunlongJiao.github.io/publication/jiao2018kendall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kernel Multitask Regression for Toxicogenetics</title>
       <link>https://YunlongJiao.github.io/publication/bernard2017kernel/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://YunlongJiao.github.io/publication/bernard2017kernel/</guid>
-      <description>&lt;p&gt;&lt;sup&gt;&amp;dagger;&lt;/sup&gt; These authors contributed equally to this work.&lt;/p&gt;
-</description>
+      <description>&amp;dagger; These authors contributed equally to this work.</description>
     </item>
     
     <item>
@@ -71,8 +72,7 @@
       <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://YunlongJiao.github.io/publication/jiao2016failure/</guid>
-      <description>&lt;p&gt;Patent application filed by &lt;a href=&#34;https://www.roche.de/en/index.html&#34; target=&#34;_blank&#34;&gt;Roche Diagnostics GmbH&lt;/a&gt;, F. Hoffmann-La Roche AG.&lt;/p&gt;
-</description>
+      <description>Patent application filed by Roche Diagnostics GmbH, F. Hoffmann-La Roche AG.</description>
     </item>
     
     <item>
