@@ -25,7 +25,7 @@
 }
 
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
@@ -41,7 +41,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: #EAE7D6;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -79,7 +79,7 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-default {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -87,7 +87,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -115,14 +115,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: #EF525B;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #3f51b5;
+  color: #EF525B;
 }
 
 img,
@@ -149,7 +149,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 figcaption.numbered:before {
@@ -185,10 +185,6 @@ pre {
 pre code {
   white-space: pre; /* Override Bootstrap to preserve line breaks in code. */
   overflow-x: auto;
-}
-
-.mjx-chtml {
-  overflow-x: auto; /* Horizontally scroll long equations. */
 }
 
 hr {
@@ -346,7 +342,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: #EAE7D6;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -357,7 +353,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: #EAE7D6;
 }
 
 @media screen and (max-width: 768px) {
@@ -452,7 +448,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #3f51b5;
+  color: #EF525B;
   font-size: 3rem;
   text-align: center;
 }
@@ -669,7 +665,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #3f51b5;
+  color: #EF525B;
 }
 
 .middot-divider {
@@ -1000,12 +996,41 @@ footer a#back_to_top i {
 }
 
 /*************************************************
+ *  Tags/Labels
+ **************************************************/
+
+.label-default {
+  border: none;
+  color: rgba(0,0,0,.68);
+  background: rgba(0,0,0,.05);
+  font-weight: normal;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.article-tags > .label-default:last-child {
+  margin-right: 0;
+}
+
+.label-default[href]:focus,
+.label-default[href]:hover {
+  background: rgba(0,0,0,.1);
+}
+
+a.label:focus,
+a.label:hover {
+  color: rgba(0,0,0,.68);
+}
+
+/*************************************************
  *  Button Primary: Color Override
  **************************************************/
 
 .btn-primary {
-  border-color: #3f51b5 !important;
-  background: #3f51b5 !important;
+  border-color: #EF525B !important;
+  background: #EF525B !important;
 }
 
 .btn-primary:hover,
@@ -1013,7 +1038,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #3f51b5 !important;
+  background: #EF525B !important;
 }
 
 .btn-light {
@@ -1047,12 +1072,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #002984 !important;
+  background-color: #DA2536 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #757de8 !important;
+  background-color: #FF6771 !important;
 }
 
 /*************************************************
@@ -1066,12 +1091,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #3f51b5 !important;
-  border-color: #3f51b5 !important;
+  color: #EF525B !important;
+  border-color: #EF525B !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #3f51b5 !important;
+  color: #EF525B !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1125,7 +1150,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default {
-  background: #3f51b5;
+  background: #24C2CB;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1158,14 +1183,14 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: #8c9eff;
+  color: #00828B;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #8c9eff;
+  color: #00828B;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1187,7 +1212,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #3f51b5 !important;
+  background-color: #24C2CB !important;
 }
 
 .dropdown-menu > li > a {
@@ -1202,17 +1227,17 @@ nav#navbar-main li {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #8c9eff;
+  color: #00828B;
   text-decoration: none;
-  background-color: #3f51b5;
+  background-color: #24C2CB;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #3f51b5;
+  color: #24C2CB;
   text-decoration: none;
-  background-color: #8c9eff;
+  background-color: #00828B;
   outline: 0;
 }
 
@@ -1221,7 +1246,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #24C2CB !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1327,7 +1352,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #8c9eff;
+    color: #00828B;
     background-color: transparent;
   }
 
@@ -1490,7 +1515,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #3f51b5;
+  background-color: #EF525B;
 }
 
 .dark table table {
@@ -1544,7 +1569,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #3f51b5;
+  color: #EF525B;
   border-bottom: solid 1px transparent;
 }
 
