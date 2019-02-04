@@ -13,4 +13,6 @@ read:
 	open ${filename}.pdf -a Preview.app
 
 clean:
-	rm ${filename}.{ps,log,aux,out,dvi,bbl,blg} ${bibname}.bib.bak
+	rm -r ${filename}.{ps,log,aux,out,dvi,bbl,blg} ${bibname}.bib.bak
+
+.PHONY : read, clean

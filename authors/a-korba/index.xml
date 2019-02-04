@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Korba on Yunlong Jiao</title>
+    <link>https://YunlongJiao.github.io/authors/a-korba/</link>
+    <description>Recent content in A Korba on Yunlong Jiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yunlong Jiao</copyright>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://YunlongJiao.github.io/authors/a-korba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Controlling the distance to a Kemeny consensus without computing it</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2016controlling/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/publication/jiao2016controlling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

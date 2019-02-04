@@ -6,9 +6,18 @@
     <description>Recent content in Yunlong Jiao on Yunlong Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Yunlong Jiao</copyright>
+    <copyright>&amp;copy; 2019 Yunlong Jiao</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring 2019: Kernel Methods in Machine Learning</title>
+      <link>https://YunlongJiao.github.io/talk/2019ammi/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/talk/2019ammi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MVGP</title>

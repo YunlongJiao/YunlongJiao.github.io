@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Y Jiao** (T.A.) on Yunlong Jiao</title>
+    <link>https://YunlongJiao.github.io/authors/y-jiao-t.a./</link>
+    <description>Recent content in **Y Jiao** (T.A.) on Yunlong Jiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yunlong Jiao</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://YunlongJiao.github.io/authors/y-jiao-t.a./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring 2019: Kernel Methods in Machine Learning</title>
+      <link>https://YunlongJiao.github.io/talk/2019ammi/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://YunlongJiao.github.io/talk/2019ammi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
