@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgi Tinchev | Yunlong Jiao</title>
+    <link>https://YunlongJiao.github.io/author/georgi-tinchev/</link>
+      <atom:link href="https://YunlongJiao.github.io/author/georgi-tinchev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georgi Tinchev</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yunlong Jiao</copyright><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YunlongJiao.github.io/media/icon_hu86804e79f28978b69c1a28af4f3b8c78_2651_512x512_fill_lanczos_center_2.png</url>
+      <title>Georgi Tinchev</title>
+      <link>https://YunlongJiao.github.io/author/georgi-tinchev/</link>
+    </image>
+    
+    <item>
+      <title>Universal Neural Vocoding with Parallel WaveNet</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2021universal/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2021universal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

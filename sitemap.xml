@@ -1,597 +1,232 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/talk/2019ammi/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/talk/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/software/mvgp/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2018weighted/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2018kendall/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2017network/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/software/kernrank/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/software/kmr/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2017signaling/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/bernard2017kernel/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2017rank/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2016failure/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2016controlling/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/eduati2015prediction/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication/jiao2015kendall/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/author/yjiao/</loc>
-      <lastmod>2020-05-21T21:22:26+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/niehs-ncats-unc-dream-toxicogenetics-collaboration/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/y-jiao/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/y-jiao-t.a./</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/y-jiaosupdagger/sup/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication_types/1/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication_types/2/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication_types/3/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication_types/4/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/a-amadoz/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/a-korba/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/c-ccedilubuk/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/e-bernardsupdagger/sup/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/e-scornet/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/e-sibony/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/f-eduati/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/f-heinemann/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/g-xiao/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/tags/gaussian-process/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/h-tang/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/j-bare/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/j-carbonell-caballero/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/j-dopazo/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/j-yang/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/jp-vert/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/jp-vert-prof./</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/l-mangravite/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/m-hidalgo/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/m-kellen/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/m-menden/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/m-xia/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/n-abdo/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/o-kosyk/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/publication_types/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/r-huang/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/r-zhong/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/s-dahlmanns/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/s-kobel/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/software/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/t-norman/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/t-walter/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/t-wang/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/tags/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/v-stoven/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/x-zhan/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/authors/et-al./</loc>
-      <lastmod>2019-02-04T19:26:54+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/tags/kernel-methods/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://YunlongJiao.github.io/tags/ranking/</loc>
-      <lastmod>2018-12-13T00:56:39+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://YunlongJiao.github.io/publication-type/1/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/adam-gabrys/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/authors/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/bartosz-putrycz/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/daniel-korzekwa/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/georgi-tinchev/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication_types/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tags/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/text-to-speech/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2021universal/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/viacheslav-klimkov/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/yunlong-jiao/</loc>
+    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/machine-learning/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/teaching/2019ammi/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/teaching/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/gaussian-processes/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/software/mvgp/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/software/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/jean-philippe-vert/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/kernel-methods/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2018weighted/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication-type/2/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2018kendall/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication-type/3/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/bioinformatics/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/software/kernrank/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/software/kmr/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2017network/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/signal-processing/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/alicia-amadoz/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/cankut-cubuk/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/joaquin-dopazo/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/jose-carbonell-caballero/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/marta-r-hidalgo/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2017signaling/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/elsa-bernard/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/erwan-scornet/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/bernard2017kernel/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/thomas-walter/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/veronique-stoven/</loc>
+    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication-type/7/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2017rank/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication-type/8/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/fabian-heinemann/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2016failure/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/tag/information-retrieval/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/stefan-kobel/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/sven-dahlmanns/</loc>
+    <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/anna-korba/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2016controlling/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/eric-sibony/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/federica-eduati/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/guanghua-xiao/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/hao-tang/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/j-christopher-bare/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/jichen-yang/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/lara-m-mangravite/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/menghang-xia/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/michael-p-menden/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/mike-kellen/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/nour-abdo/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/oksana-kosyk/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/eduati2015prediction/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/rui-zhong/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/ruili-huang/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/tao-wang/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/the-niehs-ncats-unc-dream-toxicogenetics-collaboration/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/thea-norman/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/xiaowei-zhan/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/publication/jiao2015kendall/</loc>
+    <lastmod>2015-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/categories/</loc>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/et-al./</loc>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/jean-philippe-vert-prof./</loc>
+  </url><url>
+    <loc>https://YunlongJiao.github.io/author/yunlong-jiao-t.a./</loc>
+  </url>
 </urlset>

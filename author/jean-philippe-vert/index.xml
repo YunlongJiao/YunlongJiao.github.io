@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Philippe Vert | Yunlong Jiao</title>
+    <link>https://YunlongJiao.github.io/author/jean-philippe-vert/</link>
+      <atom:link href="https://YunlongJiao.github.io/author/jean-philippe-vert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Philippe Vert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yunlong Jiao</copyright><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YunlongJiao.github.io/media/icon_hu86804e79f28978b69c1a28af4f3b8c78_2651_512x512_fill_lanczos_center_2.png</url>
+      <title>Jean-Philippe Vert</title>
+      <link>https://YunlongJiao.github.io/author/jean-philippe-vert/</link>
+    </image>
+    
+    <item>
+      <title>The Weighted Kendall and High-order Kernels for Permutations</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2018weighted/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2018weighted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kendall and Mallows Kernels for Permutations</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2018kendall/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2018kendall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network-based Wavelet Smoothing for Analysis of Genomic Data</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2017network/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2017network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signaling Pathway Activities Improve Prognosis for Breast Cancer</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2017signaling/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2017signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Multitask Regression for Toxicogenetics</title>
+      <link>https://YunlongJiao.github.io/publication/bernard2017kernel/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/bernard2017kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure State Prediction for Automated Analyzers for Analyzing a Biological Sample</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2016failure/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2016failure/</guid>
+      <description>&lt;p&gt;Patent application filed by &lt;a href=&#34;https://www.roche.de/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roche Diagnostics GmbH&lt;/a&gt;, F. Hoffmann-La Roche AG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Kendall and Mallows Kernels for Permutations</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2015kendall/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2015kendall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
