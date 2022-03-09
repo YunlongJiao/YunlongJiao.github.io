@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arushi Goel | Yunlong Jiao</title>
+    <link>https://YunlongJiao.github.io/author/arushi-goel/</link>
+      <atom:link href="https://YunlongJiao.github.io/author/arushi-goel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arushi Goel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Yunlong Jiao</copyright><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YunlongJiao.github.io/media/icon_hu86804e79f28978b69c1a28af4f3b8c78_2651_512x512_fill_lanczos_center_2.png</url>
+      <title>Arushi Goel</title>
+      <link>https://YunlongJiao.github.io/author/arushi-goel/</link>
+    </image>
+    
+    <item>
+      <title>PARS: Pseudo-Label Aware Robust Sample Selection for Learning with Noisy Labels</title>
+      <link>https://YunlongJiao.github.io/publication/goel2022pars/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/goel2022pars/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

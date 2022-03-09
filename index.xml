@@ -5,12 +5,36 @@
     <link>https://YunlongJiao.github.io/</link>
       <atom:link href="https://YunlongJiao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunlong Jiao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Yunlong Jiao</copyright><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Yunlong Jiao</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://YunlongJiao.github.io/media/icon_hu86804e79f28978b69c1a28af4f3b8c78_2651_512x512_fill_lanczos_center_2.png</url>
       <title>Yunlong Jiao</title>
       <link>https://YunlongJiao.github.io/</link>
     </image>
+    
+    <item>
+      <title>Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations</title>
+      <link>https://YunlongJiao.github.io/publication/liu2022trans/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/liu2022trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PARS: Pseudo-Label Aware Robust Sample Selection for Learning with Noisy Labels</title>
+      <link>https://YunlongJiao.github.io/publication/goel2022pars/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/goel2022pars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Mix Once: Mixing Samples with Implicit Group Distribution</title>
+      <link>https://YunlongJiao.github.io/publication/giannone2021just/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/giannone2021just/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving the expressiveness of neural vocoding with non-affine Normalizing Flows</title>
@@ -29,6 +53,15 @@
     </item>
     
     <item>
+      <title>Failure State Prediction for Automated Analyzers for Analyzing a Biological Sample</title>
+      <link>https://YunlongJiao.github.io/publication/jiao2019failure/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://YunlongJiao.github.io/publication/jiao2019failure/</guid>
+      <description>&lt;p&gt;Patent application filed by &lt;a href=&#34;https://www.roche.de/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roche Diagnostics GmbH&lt;/a&gt;, F. Hoffmann-La Roche AG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spring 2019: Kernel Methods in Machine Learning</title>
       <link>https://YunlongJiao.github.io/teaching/2019ammi/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
@@ -42,14 +75,6 @@
 &lt;/ul&gt;
 &lt;p&gt;More on the course &lt;a href=&#34;http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MVGP</title>
-      <link>https://YunlongJiao.github.io/software/mvgp/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://YunlongJiao.github.io/software/mvgp/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -114,15 +139,6 @@
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://YunlongJiao.github.io/publication/jiao2017rank/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Failure State Prediction for Automated Analyzers for Analyzing a Biological Sample</title>
-      <link>https://YunlongJiao.github.io/publication/jiao2016failure/</link>
-      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://YunlongJiao.github.io/publication/jiao2016failure/</guid>
-      <description>&lt;p&gt;Patent application filed by &lt;a href=&#34;https://www.roche.de/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roche Diagnostics GmbH&lt;/a&gt;, F. Hoffmann-La Roche AG.&lt;/p&gt;
-</description>
     </item>
     
     <item>
